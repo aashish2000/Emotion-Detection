@@ -14,9 +14,11 @@ This is a mini project aimed at performing efficient emotion recognition on a li
 
 `virtualenv detemoenv`
 
+- detemoenv: Virtual Environment Name
+
 ## Install dependencies from requirements.txt
 
-`
+```
 cd Emotion-Detection
 pip install -r requirements.txt
-`
+```
