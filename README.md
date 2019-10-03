@@ -8,7 +8,7 @@ This is a mini project aimed at performing efficient emotion recognition on a li
 
 ## Install Virtualenv
 
-`pip install virtualenv'
+`pip install virtualenv`
 
 ## Create a Virtual Environment
 
